@@ -29,6 +29,136 @@
                   "SongYear": {"S": "1992"}
                 }
             }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "System Of A Down"},
+                  "SongTitle": {"S": "Lost In Hollywood"},
+                  "AlbumTitle": {"S": "Mezmerize"},
+                  "SongYear": {"S": "2005"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "System Of A Down"},
+                  "SongTitle": {"S": "Radio/Video"},
+                  "AlbumTitle": {"S": "Mezmerize"},
+                  "SongYear": {"S": "2005"}
+                }
+            }
+        },
+	{
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "System Of A Down"},
+                  "SongTitle": {"S": "B.Y.O.B."},
+                  "AlbumTitle": {"S": "Mezmerize"},
+                  "SongYear": {"S": "2005"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Bullet For My Valentine"},
+                  "SongTitle": {"S": "10 Years Today"},
+                  "AlbumTitle": {"S": "The Poison"},
+                  "SongYear": {"S": "2005"}
+                }
+            }
+        },
+	{
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Bullet For My Valentine"},
+                  "SongTitle": {"S": "4 Words (To Choke Upon)"},
+                  "AlbumTitle": {"S": "The Poison"},
+                  "SongYear": {"S": "2005"}
+                }
+            }
+        },
+	{
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Bullet For My Valentine"},
+                  "SongTitle": {"S": "Her Voice Resides"},
+                  "AlbumTitle": {"S": "The Poison"},
+                  "SongYear": {"S": "2005"}
+                }
+            }
+        },
+	{
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Bullet For My Valentine"},
+                  "SongTitle": {"S": "Tears Don't Fall"},
+                  "AlbumTitle": {"S": "The Poison"},
+                  "SongYear": {"S": "2005"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Eminem"},
+                  "SongTitle": {"S": 	"Like Toy Soldiers"},
+                  "AlbumTitle": {"S": "Encore"},
+                  "SongYear": {"S": "2004"}
+                }
+            }
+        },
+	{
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Eminem"},
+                  "SongTitle": {"S": 	"Mockingbird"},
+                  "AlbumTitle": {"S": "Encore"},
+                  "SongYear": {"S": "2004"}
+                }
+            }
+        },
+	{
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Eminem"},
+                  "SongTitle": {"S": "Just Lose It"},
+                  "AlbumTitle": {"S": "Encore"},
+                  "SongYear": {"S": "2004"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Linkin Park"},
+                  "SongTitle": {"S": "Numb"},
+                  "AlbumTitle": {"S": "Meteora",
+                  "SongYear": {"S": "2003"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Linkin Park"},
+                  "SongTitle": {"S": "Lying from You"},
+                  "AlbumTitle": {"S": "Meteora",
+                  "SongYear": {"S": "2003"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Linkin Park"},
+                  "SongTitle": {"S": "Breaking the Habit"},
+                  "AlbumTitle": {"S": "Meteora",
+                  "SongYear": {"S": "2003"}
+                }
+            }
         }
       ]
 }
